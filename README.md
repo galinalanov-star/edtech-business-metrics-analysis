@@ -40,6 +40,4 @@ The goal of this analysis is to evaluate student engagement, course performance,
 * Significant differences in engagement across countries
 * Positive relationship between course rating and completion rate
 
-## 📸 Dashboard Preview
 
-(see images below)
