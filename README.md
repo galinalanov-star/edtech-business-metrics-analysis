@@ -1,7 +1,10 @@
 # 📊 EdTech Business Metrics Analysis
 
 This project presents a business and learning analytics dashboard for an EdTech platform using real-world user data.
-
+## 📸 Dashboard Preview
+<p align="center">
+  <img src="images/edtech_dashboard.png" width="800">
+</p>
 ## 📌 Project Overview
 
 The goal of this analysis is to evaluate student engagement, course performance, and retention metrics to support data-driven decision-making.
